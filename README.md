@@ -37,9 +37,13 @@ Essa organização segue princípios de Clean Code e Arquitetura em Camadas, evi
 
 # ⚡ Executar rapidamente
 git clone <https://github.com/Layssafs/StudyManagerAPI>
+
 cd studyManager
+
 npm install
+
 npx prisma generate
+
 npm run dev
 
 Servidor disponível em:
