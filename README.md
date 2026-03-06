@@ -36,7 +36,7 @@ Essa organização segue princípios de Clean Code e Arquitetura em Camadas, evi
 ![Arquitetura da API](./docs/preview.png)
 
 # ⚡ Executar rapidamente
-git clone <https://github.com/Layssafs/StudyManagerAPI>
+git clone <https://github.com/Layssafs/StudyManagerAPI.git>
 
 cd studyManager
 
